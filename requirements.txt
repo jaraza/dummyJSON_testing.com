@@ -1,0 +1,5 @@
+pytest==9.1.1
+requests==2.34.2
+python-dotenv==1.2.2
+pydantic==2.13.4
+deepdiff==9.1.0
